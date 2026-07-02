@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054324830539",
+    "project_id": "cartshop-94955",
+    "storage_bucket": "cartshop-94955.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054324830539:android:aa83b39dab7d6e1ffc78ce",
+        "android_client_info": {
+          "package_name": "com.example.easyol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvz_yb6CjJ3qz-G8rOvt3isXgFSQOyc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054324830539:android:23052c393f45932afc78ce",
+        "android_client_info": {
+          "package_name": "com.example.projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvz_yb6CjJ3qz-G8rOvt3isXgFSQOyc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
